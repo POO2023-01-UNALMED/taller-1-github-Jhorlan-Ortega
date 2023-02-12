@@ -1,2 +1,4 @@
 Jhorlan Daniel Ortega Dominguez
 aprender de la POO para el desarrollo de aplicaciones
+Ya que la carpeta no esta vacia
+se pueden generar conflictos en los diferentes versiones del trabajo
